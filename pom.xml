@@ -51,12 +51,7 @@
             <version>${jjwt.version}</version>
             <scope>runtime</scope>
         </dependency>
-<dependency>
 
-
-
-
-</dependency>
 	<dependency>
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
